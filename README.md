@@ -1,3 +1,4 @@
+![Alt Text](COVER.png)
 # 🤚✨ Hand Landmarks Detection with MediaPipe & OpenCV
 
 ![Hand Detection GIF](https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif)
